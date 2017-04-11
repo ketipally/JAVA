@@ -1,6 +1,5 @@
-public class helloworld 
-{
+public class helloworld {
 public static void main(string[] args) {
-system.out.println("hai");
+system.out.println("hai-GITHUB");
 }
 }
